@@ -63,7 +63,7 @@ The weights Xi are fractions invested in each security and thus they must add up
 The minimization problem can be solved using Lagrange multipliers to minimize the variance.
 
 ### Calculate Efficient Frontier
-This calculations use the method outlines in  Prof. Eric Zivot's Portfolio Theory Class notes here 
+This calculation uses the method outlines in Prof. Eric Zivot's Portfolio Theory Class notes here 
 
 https://faculty.washington.edu/ezivot/econ424/portfolioTheoryMatrix.pdf
 
